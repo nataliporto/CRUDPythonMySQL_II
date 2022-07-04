@@ -1,0 +1,17 @@
+body>main>div>h1 {
+    font-family: 'Lora', serif;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: rgb(175, 0, 88);
+}
+
+#btn-home {
+    background-color: rgb(243, 0, 170);
+    border: 0;
+    color: rgb(255, 250, 250);
+}
+
+#btn-grabar {
+    background-color: rgba(172, 168, 172, 0.864);
+    border: 0;
+}
